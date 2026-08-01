@@ -5,7 +5,7 @@
 Petit plugin QGIS que j'ai fait pour chercher une adresse dans la MEL et voir les infos sur la chaleur autour de la parcelle en vue peut être d'aider les agents immobilier à informer leur client.
 
 Tapez une adresse, et le plugin affiche une fiche synthétique : à quel point ce secteur surchauffe, pourquoi, et quels points de vigilance en retenir. Il a été pensé notamment pour aider les professionnels de l'immobilier à donner à leurs clients une information claire sur le confort d'été d'un bien et de son quartier.
-![Aperçu du plugin](images/apercu2.png)
+![Aperçu du plugin](Capture2.png)
 > \*\*Version actuelle : MVP (première version fonctionnelle). Donnée satellite de référence : nuit du 14 juillet 2026.\*\*
 
 \---
@@ -40,7 +40,7 @@ L'écart de chaleur du tronçon de voie le plus proche.
 ### Repères pour l'estimation
 
 Points factuels pour aider un professionnel à situer le bien (confort d'été à examiner, atout de fraîcheur, diagnostic géotechnique éventuel…). Ce ne sont pas des estimations de valeur ni des diagnostics réglementaires.
-![Aperçu du plugin](images/capture1.png)
+![Aperçu du plugin](images/Capture1.png)
 \---
 
 ## Comment l'utiliser
