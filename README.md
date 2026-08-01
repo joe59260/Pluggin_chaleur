@@ -40,7 +40,7 @@ L'écart de chaleur du tronçon de voie le plus proche.
 ### Repères pour l'estimation
 
 Points factuels pour aider un professionnel à situer le bien (confort d'été à examiner, atout de fraîcheur, diagnostic géotechnique éventuel…). Ce ne sont pas des estimations de valeur ni des diagnostics réglementaires.
-![Aperçu du plugin](images/Capture1.png)
+![Aperçu du plugin](Capture1.png)
 \---
 
 ## Comment l'utiliser
