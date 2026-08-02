@@ -98,9 +98,8 @@ Plugin open source (GPL v2 ou ultérieure). Données sous licences ouvertes de l
 \---
 
 ## Attendus V1
-
-* Hébergement du pack de données pour téléchargement direct
-* Affichage si possible des évolutions de température sur un an
-* Possibilité de cliquer directement sur la carte pour voir afficher les données
-* Réussir à trouver des données chaleur de nuit exploitable (attente retour météo France)
+- Affichage si possible des évolutions de température sur un an
+- Possibilité de cliquer directement sur la carte pour voir afficher les données ( données parcellaires ) 
+- Réussir à trouver des données chaleur de nuit exploitable (attente retour météo France)
+- Afficher les couches des cartes à la demande ( SUHI, RGA, ECOSTRESS...) 
 
