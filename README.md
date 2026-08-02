@@ -103,3 +103,7 @@ Plugin open source (GPL v2 ou ultérieure). Données sous licences ouvertes de l
 - Réussir à trouver des données chaleur de nuit exploitable (attente retour météo France)
 - Afficher les couches des cartes à la demande ( SUHI, RGA, ECOSTRESS...) 
 
+NB : le plugin sera déposée sur le repository officiel une fois la V1 validé 
+Roadmap 
+V1 : Septembre 2026 + publication 
+V2 : Octobre 2026 
