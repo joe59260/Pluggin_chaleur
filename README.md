@@ -46,10 +46,9 @@ Points factuels pour aider un professionnel à situer le bien (confort d'été �
 ## Comment l'utiliser
 
 * **Installation** : dans QGIS, menu *Extensions → Installer/Gérer les extensions → Installer depuis un ZIP*, puis sélectionnez le fichier du plugin. Un bouton « Chaleur MEL » apparaît dans la barre d'outils.
-* **Premier lancement** : le plugin télécharge automatiquement le pack de données de la métropole (quelques centaines de Mo). Ensuite, tout fonctionne en local ; seule la recherche d'adresse nécessite une connexion internet.
+* **Premier lancement** : le plugin télécharge automatiquement le pack de données de la métropole. Ensuite, tout fonctionne en local ; seule la recherche d'adresse nécessite une connexion internet.
 * **Consultation** : cliquez sur le bouton, puis soit tapez une adresse dans le panneau de droite et cliquez un résultat, soit cliquez directement une parcelle sur la carte. La fiche s'affiche dans le panneau, et la parcelle est surlignée en orange.
 
-> \*\*NB : en MVP le pack est à télécharger\*\*
 
 \---
 
